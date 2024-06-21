@@ -1,0 +1,33 @@
+
+
+
+body{
+
+
+
+
+}
+
+
+
+    .reservations-form{
+        max-width: 500px;
+        margin: 0 auto;
+        background-color: blanchedalmond;
+        padding: 30px;
+        border-radius: "3px";
+        box-shadow: 20px ;
+    }
+.nav{
+    background-color: rosybrown;
+    overflow: hidden;
+}
+.nav a{
+   float: left;
+   display: flex;
+   color: blue;
+   text-align: left;
+   padding: 14PX 20PX;
+   text-decoration: none;
+}
+.
