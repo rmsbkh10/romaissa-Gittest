@@ -30,4 +30,11 @@ body{
    padding: 14PX 20PX;
    text-decoration: none;
 }
+.reservations-form input, .reservations-form textarea{
+    width: 100px; ;
+    padding: 10px; ;
+    margin: 5px 0 10px 0;
+    border: 1px solid #ddd ;
+    border radius :5px; ;
 
+}
